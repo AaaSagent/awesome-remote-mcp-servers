@@ -2509,6 +2509,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
   [![艾达 ADA MCP connector](https://glama.ai/mcp/connectors/group.hengyu.ai/ada/badges/score.svg)](https://glama.ai/mcp/connectors/group.hengyu.ai/ada)
   🔓 - Shared public warehouse for agents: search, fetch and store reusable knowledge, no signup and no key required.
+- [AaaSagent Templates](https://aaasagent.xyz) `https://aaasagent.xyz/api/v1/mcp`
+  [![AaaSagent Templates MCP connector](https://glama.ai/mcp/connectors/xyz.aaasagent/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.aaasagent/mcp)
+  🔓 - Browse and fetch 632 open-source agent templates; bring your own LLM key.
 - [ABS · AI Business System](https://www.ucai.net) `https://www.ucai.net/api/agent/mcp`
   [![ABS · AI Business System MCP connector](https://glama.ai/mcp/connectors/net.ucai/abs/badges/score.svg)](https://glama.ai/mcp/connectors/net.ucai/abs)
   🔐 - Lean and operations knowledge base built on DBS: cited answers, tool cards, scheduled plans and diagnoses.
